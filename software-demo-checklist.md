@@ -6,13 +6,14 @@ Not to show every feature. It is to excite the customer for the next sales event
 - [ ] For this customer do you have a STRONG ANSWER to *"Why Buy Your Product?"*
 - [ ] For this customer do you have a STRONG ANSWER to *"Why Buy Now?"*
 - [ ] For this customer, do you have a STRONG ANSWER as to how this demo will assist the TECHNICAL CHAMPION and EXECUTIVE BUYER?
-- [ ] Use [Demomonkey](https://www.demomonkey.net/) to personalize the demo for the user
+
 
 ## Choosing Work Flows
 - [ ] 3 WHYS: Focus on work flows that address the 3 WHY's discussed in the PREP section
 - [ ] KISS: Unless the customer can geek out on it, NEVER show work flows with complex steps. They are hard to follow and no matter what you think is the result, the customer will decide it is hard to use
 - [ ] DEFENSIVE FUD: Integrate solutions to known competitor FUD in the demo. No need to address the competitor. This is done by unique work flows or even talking through your products methods under the hood
 - [ ] PLACE LANDMINES: Use workflows that will hurt the competitor. No need to address the competitor. This is done by unique work flows or even talking through your products methods under the hood
+- [ ] Use [Demomonkey](https://www.demomonkey.net/) to personalize the demo for the user
 
 
 ## Virtual Slides
