@@ -1,3 +1,6 @@
+# Note:
+It is better to be natural than perform everything below. This is not a blueprint for success, these are suggestions that we know will work
+
 ## Goal of a demo:
 Not to show every feature. It is to excite the customer for the next sales event (PoC, larger meeting etc)
 
