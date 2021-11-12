@@ -60,12 +60,14 @@ Not to show every feature. It is to excite the customer for the next sales event
 - [ ] SUMMARIZE DEMO: Summarize what you showed in a way that makes them remember why this is important to them
 
 
-## Things to always remember
-Anti-Boat Harbor Tour
+
+## Anti-Boat Harbor Tour
 
 NEVER have the below statements be the main reason for someone to look at something new. They can be used as a secondary purpose for the transition. Secondary to the 'why the customer should care' statement:
 - [ ] *we can click/go/see*
 - [ ] *over here*
 
 
+## Things to always remember
+- [ ] PAUSE INSTEAD OF UM: Do not say *um* or any other thinking phrase. It is okay to wait until the next phrase comes to mind. This pause is actually beneficial for the demo 
 
