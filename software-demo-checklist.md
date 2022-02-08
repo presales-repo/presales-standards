@@ -44,6 +44,7 @@ Not to show every feature. It is to excite the customer for the next sales event
 - [ ] REMINDERS IN LONG FLOWS: If it is a long work flow then constantly remind them what is the workflow
 - [ ] FLOW SUMMARY: Exit the workflow making sure they know what they just saw and why. Tell-Show-Tell
 - [ ] IS THIS LIFE CHANGING TEASE: If this workflow fulfilled the life changing tease described above, make sure they know that they just saw it
+- [ ] SPRINKLE BENEFITS: From the 3 Whys, constantly add reminders to those benefits described right before the first screen, in this workflow, and all 3 why benefits. Remember, they will not think about these, be obvious in telling them when to look for them
 - [ ] PAUSE BY QUESTIONS: Ask for questions after a workflow, not during. "Any questions" is good enough. Personal questions directed at their use-case are better if possible
 
 
@@ -51,6 +52,7 @@ Not to show every feature. It is to excite the customer for the next sales event
 - [ ] START BY QUICK TEASE: Start every workflow with a tease, why they should continue listening. Maybe a story, maybe a tease showing how their life is going to change due to this new workflow
 - [ ] ONE THING: Keep the excitement of a flow. Almost always describe only ONE thing per screen transition. Sometimes 2 items are okay but this is rare. The exception to this rule is if you know that the customer will geek out on that screen and want to see a lot more
 - [ ] BUTTON CLICKS: Before every major button click: 1) Say what you are about to do AND why they should care 2) Do it. 3) Then say what you just did. [Tell Show Tell](https://blog.2winglobal.com/perfecting-your-demonstration-techniques-the-tell-show-tell-method)
+- [ ] SPRINKLE BENEFITS: From the 3 Whys, constantly add reminders to those benefits described right before the first screen, in this workflow, and all 3 why benefits. Remember, they will not think about these, be obvious in telling them when to look for them
 - [ ] QUICK FLOW SUMMARY: Exit the workflow making sure they know what they just saw and why. Tell-Show-Tell
 
 
