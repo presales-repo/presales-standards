@@ -44,8 +44,8 @@ Shows up to most Global SA activities. Interacts on Slack and these activities
   * Slack Interaction **(scored by: Minimal number of slack answers | Occasional slack answers | Trusted answerer on slack)**
 ### Maintain Large Accounts: Builds organized methodologies to assure continued world class service and success for the larger accounts
 ###### KPIs 
-  * Large Account Growth **Largest deals shrink or maintain size | Largest deals grow slightly | Massive growth in largest deals**
-  * Ownership to Account **Not connected yet | Can answer technical details of account | CTO ownership of all tech activities in account**
+  * Large Account Growth ***(scored by:Largest deals shrink or maintain size | Largest deals grow slightly | Massive growth in largest deals)**
+  * Ownership to Account **(scored by: Not connected yet | Can answer technical details of account | CTO ownership of all tech activities in account)**
 ## Senior Principal SA
 ### Makes the whole team more money: 
 Assisting and helping everyone on the team be better salespeople in day-to-day activities
