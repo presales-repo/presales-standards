@@ -25,12 +25,12 @@ Leads most demos and calls without outside help
 ### AE Praise: 
 AE’s publicly appreciate the effort of the SA in ways that are genuine and not fabricated
 ###### KPIs 
-  * Genuine notes and verbal statement of appreciation. Not generic but something very unique to the SA **(scored by: Not yet | Yes | Strong Yes)** AE persona will be taken into account
+  * Genuine notes and verbal statement of appreciation. Not generic but something very unique to the SA **(scored by: Not yet | Yes | Strong Yes)** AE persona will be taken into account as well as the environment of the patch and the expectation of growth
 ## Principal SA
 ### Internal Management: 
-Controls the relationship with the AE, the relationship does not spill out requiring outside help
+Controls the relationship with the AE, the relationship does not spill out requiring outside help whether technical or political help
 ###### KPIs 
-  * Number of justified disagreements spilling over to RVP and SA Manager **(scored by: major disagreements still spill over | only minor disagreements spill over | nothing spills over)** AE persona will be taken into account
+  * Number of justified concerns/disagreements over heard by over to RVP, SA Manager, and Sales rep compared to accolades heard by SA Manager **(scored by: major issues come up occasionally | only minor disagreements spill over | more good reviews are heard then bad reviews | consistent praise by many people for the work by the SA)** AE persona will be taken into account
 ### Catcher mentality: 
 Helps AEs reach higher numbers than if the AE made all of the choices on their own. Acts as a trusted advocate to the AE, someone they can rely on. Helps the AE see better usages of time for the SA and the entire sales ecosystem
 ###### KPIs 
@@ -45,7 +45,7 @@ Shows up to most Global SA activities. Interacts on Slack and these activities
 ### Maintain Large Accounts: Builds organized methodologies to assure continued world class service and success for the larger accounts
 ###### KPIs 
   * Large Account Growth ***(scored by:Largest deals shrink or maintain size | Largest deals grow slightly | Massive growth in largest deals)**
-  * Ownership to Account **(scored by: Not connected yet | Can answer technical details of account | CTO ownership of all tech activities in account)**
+  * Ownership to Account (overlay ownership is allowed. This will only look at accounts lead by this SA) **(scored by: Not connected yet | Can answer technical details of account | CTO ownership of all tech activities in account)**
 ## Senior Principal SA
 ### Makes the whole team more money: 
 Assisting and helping everyone on the team be better salespeople in day-to-day activities
