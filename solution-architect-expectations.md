@@ -1,5 +1,9 @@
-#  Promotion Criteria
-  * Not everyone can be promoted, those with the best scores below will get top priority for promotion
+#  Introduction
+The following are the expectations for Solution Architects. Team members will be evaluated based on the KPI's below
+
+
+#  Criteria By Level
+  * Below are the different levels of a Solution Architect (SA.) An SA at a specific level is expected to fulfill all criteria of all previous levels. Promotions will be evaluated based on the KPI scores of the level ABOVE the SA at this time
   * KPI's are purposely not weighted as every SA works differently and each territory has unique needs. Each SA is allowed the opportunity to describe their desired weights to each KPI
   * Abbreviations
     * KPI = Key Performance Indicator
@@ -9,7 +13,45 @@
 
 
 ##  SA1
-Criteria will be set when there is an SA at this level
+Elastic technical knowledge. The SA shall be "whiteboard-discussion-capable" at the following topics. **(scored by: Not yet | Yes | Strong Yes)**
+
+
+
+
+
+
+
+
+
+
+
+
+* Platform Topics
+  
+|    |   |   |
+| ------------- | ------------- | ------------- |
+| Agent  | APM Server  | Auditbeat  |
+| ECE  | ECK  | Elasticsearch  |
+| EPR  | Filebeat  | Fleet  |
+| Kibana  | Logstash  | Mapping Server  |
+| Metricbeat  |   |   |
+
+
+* Core Elasticsearch Concepts
+  
+|    |   |   |
+| ------------- | ------------- | ------------- |
+| Aggregations  | Aliases  | Autoscaling  |
+| Command line tools  | Data management  | Data streams  |
+| EQL  | Index Modules  | Index templates  |
+| Ingest pipelines  | Mapping  | Migration guide  |
+| REST APIs  | Query DSL  | REST APIs  |
+| Roll up or transform your data  | Scripting  | Search your data  |
+| Secure the Elastic Stack  | Setup a cluster for high availability  | Snapshot and restore  |
+| SQL  | Text analysis  | Troubleshooting  |
+| Watcher  |   |   |
+
+
 ##  SA2
 Criteria will be set when there is an SA at this level
 ##  Senior SA
