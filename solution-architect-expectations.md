@@ -69,12 +69,16 @@ AE’s publicly appreciate the effort of the SA in ways that are genuine and not
 ###### KPIs 
   * Genuine notes and verbal statement of appreciation. Not generic but something very unique to the SA **(scored by: Not yet | Yes | Strong Yes)** AE persona will be taken into account as well as the environment of the patch and the expectation of growth
 ## Principal SA
+### ESAT Usage
+  * Utilizes the ESAT templates for as many written activities as possible. When the activity will be repeated by others often and there is not a template, the SA creates a new template in the ESAT
+  * All ESAT's will be placed in the ESAT repository 
+  * **(scored by: very few ESATs built | ESATs are not fully completed | ESATs are rich with content | Great ESATS and built many templates for ESATS**
 ### Internal Management: 
-Controls the relationship with the AE, the relationship does not spill out requiring outside help whether technical or political help
+  * Controls the relationship with the AE, the relationship does not spill out requiring outside help whether technical or political help
 ###### KPIs 
   * Number of justified concerns/disagreements over heard by over to RVP, SA Manager, and Sales rep compared to accolades heard by SA Manager **(scored by: major issues come up occasionally | only minor disagreements spill over | more good reviews are heard then bad reviews | consistent praise by many people for the work by the SA)** AE persona will be taken into account
 ### Catcher mentality: 
-Helps AEs reach higher numbers than if the AE made all of the choices on their own. Acts as a trusted advocate to the AE, someone they can rely on. Helps the AE see better usages of time for the SA and the entire sales ecosystem
+  * Helps AEs reach higher numbers than if the AE made all of the choices on their own. Acts as a trusted advocate to the AE, someone they can rely on. Helps the AE see better usages of time for the SA and the entire sales ecosystem
 ###### KPIs 
   * Pipeline and closed deals for the AEs compared to previous years **(scored by: worse attainment | same attainment | much better attainment)** AE persona will be taken into account
   * Outward reliance of SA to the AE, “hey SA, what do you think about this” or “the SA came up with the idea to..” **(scored by: connection still being created between SA/AE | normal connection | very close connection)** AE persona will be taken into account
