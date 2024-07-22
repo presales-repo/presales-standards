@@ -17,7 +17,7 @@ The goal of the below is to provide the most efficient and successful SA experie
 
 
 # Interacting with an SA
- * **Email for Actions, Slack/Text/Phone for conversation** In general, anything requiring followup from an individual should be via email. At this time follow-up methods are hard to do with Slack or Text.
+ * **Email for Actions, Slack/Text/Phone for conversation** In general, anything requiring followup from an individual should be via email. At this time follow-up methods are hard to manage with Slack or Text.
    - Slack is a great way to create a group discussion, share important news/reminders to an individual, and communicate with a delay. Do not expect any actions from Slack, the SA may have the time to respond with thought but they may also only have the time required to read it as they multitask
    - Text is a great way to get the attention of people no matter where they are. 
    - Both Slack and Text can be used to point an SA to an action in an email or other location but not to be the main source of the action.
