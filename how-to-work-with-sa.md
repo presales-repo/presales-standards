@@ -31,7 +31,7 @@ The goal of the below is to provide the most efficient and successful SA experie
    - how strategic the SA's involvement in each meeting would be
    - where each opp is in the sales cycle, and
    - the account importance overall.
-All things being relatively equal, then the SA should ask you for coverage support in whatever form for the other meeting. 
+All things being relatively equal, then the SA should ask the SA Manager for coverage support in whatever form for the other meeting. 
 The SA will work quickly to assure both AE's can prepare for the changes based on this conflict
 
 # Proof of Value (PoV)
