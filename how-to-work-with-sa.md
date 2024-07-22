@@ -17,8 +17,12 @@ The goal of the below is to provide the most efficient and successful SA experie
 
 
 # Interacting with an SA
- * **Email for Actions, Slack/Text for conversation** In general, anything requiring followup from an individual should be via email. At this time follow-up methods are hard to do with Slack or Text. Slack is a great way to create a group discussion, share important news/reminders to an individual, and communicate with a delay. Text is a great way to get the attention of people no matter where they are. Both Slack and Text can be used to point an SA to an action in an email or other location but not to be the main source of the action.
- *  **SA After Hours/Vacations/Weekends and Texting** Please be considerate of text usage during weekends and SA vacations. There will always be reasons to use text during these times but they should be rare. Almost everything can wait until the break is over. A good tool is to ask yourself this question: *"If I was about to go to my favorite event in person right now **(going to see Taylor Swift, Commanders, Capitals, Metalica, Army 10 Miler, or 6-Flags right now)**, would I still be working on this and asking my SA for their time right now?"* Because we have to assume the SA is doing something that important with their free time as well
+ * **Email for Actions, Slack/Text/Phone for conversation** In general, anything requiring followup from an individual should be via email. At this time follow-up methods are hard to do with Slack or Text.
+   - Slack is a great way to create a group discussion, share important news/reminders to an individual, and communicate with a delay. Do not expect any actions from Slack, the SA may have the time to respond with thought but they may also only have the time required to read it as they multitask
+   - Text is a great way to get the attention of people no matter where they are. 
+   - Both Slack and Text can be used to point an SA to an action in an email or other location but not to be the main source of the action.
+   - Phone calls are a great way to post/pre plan for any new activity and to resync after actions are done apart
+ *  **SA After Hours/Vacations/Weekends and Texting/Phone Calls** Please be considerate of text and phone call usage during weekends and SA vacations. There will always be reasons to use these during off hours but they should be rare. Almost everything can wait until the break is over. A good tool is to ask yourself this question: *"If I was about to go to my favorite event in person right now **(going to see Taylor Swift, Commanders, Capitals, Metalica, Army 10 Miler, or 6-Flags right now)**, would I still be working on this and asking my SA for their time right now?"* Because we have to assume the SA is doing something that important with their free time as well
 
 
 
