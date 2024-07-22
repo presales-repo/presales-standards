@@ -6,12 +6,21 @@ The goal of the below is to provide the most efficient and successful SA experie
  * **25-30% Travel** Expected travel is 25-30% unless told differently (Surges in travel are understandable as long as the cumulative stays around 25-30%)
  * **In territory** Travel should only be expected by the assigned SA to the territory. Other SA's can volunteer but there is no expectation that they attend nor expect quota relief for those deals
 
+
 # SA relationship with Support
 * **Support provides Tier 1/2 Support** After there is a purchase, Support will provide Tier 1/2 Support. If we know that Support will not support the question, that is when the SA should be considered. All other help should come from Support
+
 
 # Overlay Solution Architects
  * **SA's request Overlay Support** All requests for overlay time from AE/SA's running a territory should go through the territories SA, not the AE. This includes overlays in the region and corporate level overlays
  * **Work on this one** DoD Overlays are connected to RVP's in the same way as an SA is connected to AE. As in, the two of them build plans together to define the actions of the SA for that region
+
+
+# Interacting with an SA
+ * **Slack/Email/Text** In general, anything requiring followup from an individual should be via email. At this time follow-up methods are hard to do with Slack or Text. Slack is a great way to create a group discussion, share important news/reminders to an individual, and communicate with a delay. Text is a great way to get the attention of people no matter where they are. Both Slack and Text can be used to point an SA to an action in an email or other location but not to be the main source of the action.
+ *  **SA Vacations/Weekends** Please be considerate of text usage during weekends and SA vacations. There will always be reasons to use text during these times but they should be rare. Almost everything can wait until the break is over. A good tool is to ask yourself this question: *"If I was about to go to my favorite event in person right now (going to see Taylor Swift, Commanders, Capitals, Metalica, Army 10 Miler, or 6-Flags right now), would I still be working on this and asking my SA for their time right now?"* Because we have to assume the SA is doing something that important with their free time as well
+
+
 
 # Customer Meeting Expections
  * **Prep meeting and post meeting** The best value of an SA comes when there is a prep and post meeting for the call. This allows the SA to fully understand their role and how to be successful. It is understandable that all calls cannot have prep/post calls, the higher priority calls should all have prep/post calls
@@ -33,6 +42,7 @@ The goal of the below is to provide the most efficient and successful SA experie
    - the account importance overall.
 All things being relatively equal, then the SA should ask the SA Manager for coverage support in whatever form for the other meeting. 
 The SA will work quickly to assure both AE's can prepare for the changes based on this conflict
+
 
 # Proof of Value (PoV)
  * **When and how to use PoVs** PoV's are both high touch and high value. For this reason we want to make sure they are as efficient as possible. To do this, the below "PoV Specs" are setup to help everyone achieve as successful of a PoV as possible.
