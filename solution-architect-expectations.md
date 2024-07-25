@@ -17,7 +17,8 @@ Criteria will be set when there is an SA at this level
 
 
 ##  SA2
-Elastic technical knowledge. The SA shall be "whiteboard-discussion-capable" at the following topics. **(scored by: Not yet | Yes | Strong Yes)**
+### Elastic technical knowledge. 
+The SA shall be "whiteboard-discussion-capable" at the following topics. **(scored by: Not yet | Yes | Strong Yes)**
 
 * Platform Topics
   
