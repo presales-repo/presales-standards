@@ -13,18 +13,11 @@ The following are the expectations for Solution Architects. Team members will be
 
 
 ##  SA1
+Criteria will be set when there is an SA at this level
+
+
+##  SA2
 Elastic technical knowledge. The SA shall be "whiteboard-discussion-capable" at the following topics. **(scored by: Not yet | Yes | Strong Yes)**
-
-
-
-
-
-
-
-
-
-
-
 
 * Platform Topics
   
@@ -52,8 +45,6 @@ Elastic technical knowledge. The SA shall be "whiteboard-discussion-capable" at 
 | Watcher  |   |   |
 
 
-##  SA2
-Criteria will be set when there is an SA at this level
 ##  Senior SA
 ### Champion Building: 
 Develops strong champions:  
