@@ -1,6 +1,10 @@
 # Background
 The goal of the below is to provide the most efficient and successful SA experience possible. Giving an SA a "soft ball" assures that the SA can hit the ball out of the park. The below are rules that we use to assure that we are at our best and able to get as many technical wins as possible. Obviously there are exceptions to all of these rules. These are the rules that start the discussion as we decide what expections should be used and where 
 
+In general, more effort will be expected for the more important customers. When possible, it is nice to define those customers in a list built around these criteria. This allows the SA to know where they should spent the most time 
+![Figure 1-1](https://github.com/presales-repo/presales-standards/blob/main/accountlevels.png) 
+"Figure 1-1"
+
 
 #  Travel for Individual Contributors
  * **25-30% Travel** Expected travel is 25-30% unless told differently (Surges in travel are understandable as long as the cumulative stays around 25-30%)
@@ -37,7 +41,8 @@ The goal of the below is to provide the most efficient and successful SA experie
     - What demo is to be presented
     - Any key pieces of information to keep in mind while presenting
  * **SA's generally don't share Elastic 101 slides** AE's present the fundamental slide deck for the 101 presentations. The SA can decide when and if they present slides. It is expected that the SA will provide the demo.
- * **Custom Demo's take more time** If an uncommon, custom demo is to be presented, the SA is allowed to define the amount of time necessary to create that demo. The size/chance of the deal and quantity of all custom demo's requested will affect the level of effort, if any, that will be considered to create the demo. The scope is heavily driven by the SA to avoid scope creep. The custom demo is not expected to be presented in any form until that time is completed
+ * **Custom Demo's take more time** If an uncommon, custom demo is to be presented, the SA is allowed to define the amount of time necessary to create that demo. The size/chance of the deal and quantity of all custom demo's requested will affect the level of effort, if any, that will be considered to create the demo. 
+The scope is heavily driven by the SA to avoid scope creep. The custom demo is not expected to be presented in any form until that time is completed
  * **SAs for Stage 2+ meeting** Almost all Stage 1 meetings do not need an SA. SA's can add value to Stage 2 meeting with the correct prep. This prep is when and the customer has already requested to hear a specific technical topic. In general, very few SDR led meetings will need an SA.
  * **Multiple meetings setup at the same time with different AE's** The SA is allowed to weight the conflict based on:
    - which meeting was setup correctly first
