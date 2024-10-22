@@ -69,6 +69,12 @@ NEVER have the below statements be the main reason for someone to look at someth
 - [ ] *we can click/go/see*
 - [ ] *over here*
 
-### Other
+### How to improve the stories and make the message sound more powerful
+1. Choose a demo and/or slide deck that you share a lot
+2. Write out a 7 minute demo. Literally write it out. This helps you hone into the exact stories that are most impactful. Make it 7 minutes so that you have to be succinct while giving you enough time to share a lot of the product
+3. Read this written-demo 15 times. Each time you will find that you improve it as you realize certain messages are not hitting as well as you thought. Always try to find new and better stories that hit the message best
+4. Present it to your manager (me.) This is important as it adds extra pressure to all of the above activities
+
+### Ummmmm
 - [ ] PAUSE INSTEAD OF UM: Do not say *um* or any other thinking phrase. It is okay to wait until the next phrase comes to mind. This pause is actually beneficial for the demo 
 
