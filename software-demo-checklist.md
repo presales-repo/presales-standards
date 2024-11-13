@@ -23,6 +23,8 @@ Not to show every feature. It is to excite the customer for the next sales event
 - [ ] 20-30 SECONDS PER SLIDE: A few exceptions are allowed but should be rare. This is enough time to digest the slide but not too much time
 - [ ] 7-10 MINUTES TOTAL: This amount of slides is best
 - [ ] TRANSITION PAUSES: Seperate concepts with transition slides. Pause at these slides. Tease a promo about why they should listen to the next set of slides
+- [ ] LITERALLY SHOW THEM HOW WE WILL FIT INTO THEIR ARCHITECTURE: Give an architecture. If you can gain access to this information in advance, this slide is very powerful. It shows that we are not a hypothetical idea but literally how they would implement us. Note: it is worth the effort to get the pre-calls needed to do this slide. It shows partnership
+- [ ] OUR EXACT BENEFITS FOR THEM: With that architecture slide (I would only do this if you can get that architecture slide) share the exact values that we can provide them. Be specific, not hypthotetical. Bring enough detail that it looks real, not perfect but much better than what they have. As in, not just some marketing words. Note: it is worth the effort to get the pre-calls needed to do this slide. It shows partnership
 
 
 ## Right Before The First Screen
@@ -76,5 +78,5 @@ NEVER have the below statements be the main reason for someone to look at someth
 4. Present it to your manager (me.) This is important as it adds extra pressure to all of the above activities
 
 ### Ummmmm
-- [ ] PAUSE INSTEAD OF UM: Do not say *um* or any other thinking phrase. It is okay to wait until the next phrase comes to mind. This pause is actually beneficial for the demo 
+- [ ] PAUSE INSTEAD OF UM: Do not say *um* or any other thinking phrase. It is okay to wait until the next phrase comes to mind. This pause is actually beneficial for the demo
 
