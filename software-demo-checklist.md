@@ -33,7 +33,7 @@ Not to show every feature. It is to excite the customer for the next sales event
 - [ ] LIFE CHANGING TEASE: State a life changing tease. Usually this includes a number. Something like "I am going to show you 3 clicks to ___"
 
 ## On the First Screen
-- [ ] WOW THEM: Wow them in the first 3 seconds once the first screen is shown. Show something that will change their life before any word is said. Build this screen if you have to 
+- [ ] WOW THEM: Wow them in the first 3 seconds once the first screen is shown. Show something that will change their life before any word is said. Build this custom dashboard if you have to 
 - [ ] BASK IN SHOCK: Bask in their shock. Do not assume they are seeing anything. Describe why this will change their life
 - [ ] DEFINE FULL DEMO: Describe the different workflows you are about to show in a way that makes the customer excited to see them 
 
