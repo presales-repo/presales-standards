@@ -22,7 +22,7 @@ Not to show every feature. It is to excite the customer for the next sales event
 ## Virtual Slides
 - [ ] 20-30 SECONDS PER SLIDE: A few exceptions are allowed but should be rare. This is enough time to digest the slide but not too much time
 - [ ] 7-10 MINUTES TOTAL: This amount of slides is best
-- [ ] TRANSITION PAUSES: Seperate concepts with transition slides. Pause at these slides. Tease a promo about why they should listen to the next set of slides
+- [ ] TRANSITION PAUSES: Separate concepts with transition slides. Pause at these slides. Tease a promo about why they should listen to the next set of slides
 - [ ] LITERALLY SHOW THEM HOW WE WILL FIT INTO THEIR ARCHITECTURE: Give an architecture. If you can gain access to this information in advance, this slide is very powerful. It shows that we are not a hypothetical idea but literally how they would implement us. Note: it is worth the effort to get the pre-calls needed to do this slide. It shows partnership
 - [ ] OUR EXACT BENEFITS FOR THEM: With that architecture slide (I would only do this if you can get that architecture slide) share the exact values that we can provide them. Be specific, not hypthotetical. Bring enough detail that it looks real, not perfect but much better than what they have. As in, not just some marketing words. Note: it is worth the effort to get the pre-calls needed to do this slide. It shows partnership
 
